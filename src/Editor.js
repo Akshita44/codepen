@@ -26,7 +26,7 @@ function Editor(props) {
         </div>
         <CodeMirror
         value={value}
-        height="200px"
+        height="40vh"
         className='code-mirror-wrapper'
         theme={'dark'}
         mode={language}
