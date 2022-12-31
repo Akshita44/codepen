@@ -1,5 +1,4 @@
 import { useEffect } from 'react';
-import './App.css';
 import Editor from './Editor';
 // import {language} from "@codemirror/language"
 import { javascript } from '@codemirror/lang-javascript';
